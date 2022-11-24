@@ -1,4 +1,4 @@
-# Nhalala React Portfolio
+# Nhlalala React Portfolio
 
 <img src="https://github.com/nhlalala9/nhlalalamudanisi-react-portfolio/blob/master/src/assets/portfolio%20homepage.png" alt="Portfolio homepage image">
 
