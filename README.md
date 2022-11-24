@@ -1,3 +1,7 @@
+#Nhalala React Portfolio
+
+<img src="https://github.com/nhlalala9/nhlalalamudanisi-react-portfolio/blob/master/src/assets/portfolio%20homepage.png" alt="Portfolio homepage image">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
